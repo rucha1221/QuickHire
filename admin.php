@@ -151,7 +151,7 @@
         data: {
             labels: ['Active Jobs', 'Inactive Jobs'],
             datasets: [{
-                data: [active, inactive], // ✅ dynamic values
+                data: [active, inactive], 
                 backgroundColor: [
                     '#28a745',
                     '#dc3545'
